@@ -1,0 +1,62 @@
+Feature,Mean_SHAP_Impact,Business Meaning & Actionable Driver,Rank
+RFM_Segment_Lost Churners,0.1690668784854689,Contributing behavioral / demographic attribute.,1
+RFM_Segment_New Customers,0.04706919775594507,Contributing behavioral / demographic attribute.,2
+contract_commitment_months,0.04169742646083918,"Higher commitment terms (1 or 2 years) create contract lock-in, slashing churn to <3%.",3
+cost_per_service,0.026387928037592573,Contributing behavioral / demographic attribute.,4
+InternetService_Fiber optic,0.02481204274903134,Fiber optic is a high-cost tier ($70-$100+); price-to-service dissatisfaction drives higher churn.,5
+Contract_Two year,0.020831875945901534,Two-year contracts drastically suppress churn probability.,6
+tenure,0.015725093870178813,Higher tenure strongly lowers churn. Long-term customers have high brand loyalty and high switching friction.,7
+tenure_years,0.015616299022979523,Years of customer tenure; churn drops below 10% after 2 years of service.,8
+PaymentMethod_Electronic check,0.01258782282951936,Manual paper/electronic checks cause monthly payment friction and drop-offs.,9
+R_value,0.011492095496219393,Contributing behavioral / demographic attribute.,10
+RFM_Segment_Hibernating / Low Value,0.010965049902876896,Contributing behavioral / demographic attribute.,11
+R_Score,0.010697418643031337,Contributing behavioral / demographic attribute.,12
+MonthlyCharges,0.009024399295506282,"High monthly billing increases price sensitivity, especially if service disruptions occur.",13
+historical_avg_monthly_charges,0.008420122794806882,Contributing behavioral / demographic attribute.,14
+M_value,0.006570933079951679,Contributing behavioral / demographic attribute.,15
+RFM_Total,0.006400558928652023,Contributing behavioral / demographic attribute.,16
+OnlineSecurity_Yes,0.005650456827653567,Security add-on improves perceived product value and protection inertia.,17
+StreamingMovies_No internet service,0.005598999078177728,Contributing behavioral / demographic attribute.,18
+TotalCharges,0.005039564973364008,Cumulative revenue proxy. High total charges reflect stable long-standing customer lifecycle.,19
+OnlineSecurity_No internet service,0.004893551524101818,Contributing behavioral / demographic attribute.,20
+OnlineBackup_No internet service,0.004525504095871533,Contributing behavioral / demographic attribute.,21
+F_value,0.004365173431163557,Contributing behavioral / demographic attribute.,22
+streaming_services_count,0.004276789953125213,Contributing behavioral / demographic attribute.,23
+PaperlessBilling_Yes,0.004034524987339456,Slightly higher churn among paperless billing users due to ease of online cancellation.,24
+Cluster_Persona_High-Value Power Users,0.0036586780694334927,Contributing behavioral / demographic attribute.,25
+DeviceProtection_No internet service,0.003636224007172359,Contributing behavioral / demographic attribute.,26
+security_support_count,0.0035960146613764864,Subscribing to Tech Support & Security features significantly increases platform stickiness.,27
+Contract_One year,0.003573237439727556,One-year contracts offer strong stability compared to Month-to-month.,28
+StreamingTV_No internet service,0.0035543001581162226,Contributing behavioral / demographic attribute.,29
+InternetService_No,0.003543779106222313,Contributing behavioral / demographic attribute.,30
+Cluster,0.0035321927770268127,Contributing behavioral / demographic attribute.,31
+RFM_Segment_Champions,0.00315134913170361,Contributing behavioral / demographic attribute.,32
+TechSupport_No internet service,0.003066307231978901,Contributing behavioral / demographic attribute.,33
+StreamingMovies_Yes,0.0029918981876275244,Contributing behavioral / demographic attribute.,34
+TechSupport_Yes,0.0027555830745482706,Direct access to tech assistance resolves frustrations before they lead to cancellation.,35
+M_Score,0.0027522498789773935,Contributing behavioral / demographic attribute.,36
+is_autopay,0.0026495549810385964,Enabling automatic payments fosters habitual retention and reduces involuntary churn.,37
+RFM_Segment_Loyal Customers,0.002618315985517332,Contributing behavioral / demographic attribute.,38
+StreamingTV_Yes,0.002508771574255901,Contributing behavioral / demographic attribute.,39
+MultipleLines_Yes,0.0023520737611234157,Contributing behavioral / demographic attribute.,40
+tenure_group_>60 M,0.0021801296759732572,Contributing behavioral / demographic attribute.,41
+monthly_charge_discrepancy,0.002020403083710662,Contributing behavioral / demographic attribute.,42
+Cluster_Persona_Long-Term Contract Loyalists,0.0018782532685169325,Contributing behavioral / demographic attribute.,43
+tenure_group_13-24 M,0.0016438344748902474,Contributing behavioral / demographic attribute.,44
+SeniorCitizen,0.0016301598741472493,Contributing behavioral / demographic attribute.,45
+F_Score,0.0015216640150750827,Contributing behavioral / demographic attribute.,46
+Dependents_Yes,0.0014313171793227956,Contributing behavioral / demographic attribute.,47
+PhoneService_Yes,0.0011202820575532196,Contributing behavioral / demographic attribute.,48
+total_services_count,0.001103769163923562,Ecosystem breadth: customers with 4+ services rarely leave due to bundling friction.,49
+PaymentMethod_Mailed check,0.0010889965907346115,Contributing behavioral / demographic attribute.,50
+Cluster_Persona_New High-Risk Fiber Users,0.0010380215752391704,Contributing behavioral / demographic attribute.,51
+MultipleLines_No phone service,0.0009484028051097248,Contributing behavioral / demographic attribute.,52
+tenure_group_25-48 M,0.0009328102128859059,Contributing behavioral / demographic attribute.,53
+OnlineBackup_Yes,0.0007960095817520055,Contributing behavioral / demographic attribute.,54
+gender_Male,0.0006999278339596913,Contributing behavioral / demographic attribute.,55
+RFM_Segment_Potential Loyalists,0.0005975275582225037,Contributing behavioral / demographic attribute.,56
+tenure_group_49-60 M,0.0005908565195063134,Contributing behavioral / demographic attribute.,57
+PaymentMethod_Credit card (automatic),0.0005154188462677952,Contributing behavioral / demographic attribute.,58
+has_family,0.00042342864817376683,Contributing behavioral / demographic attribute.,59
+DeviceProtection_Yes,0.0003846539614327446,Contributing behavioral / demographic attribute.,60
+Partner_Yes,0.0003276227885672416,Contributing behavioral / demographic attribute.,61

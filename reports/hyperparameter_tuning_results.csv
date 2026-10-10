@@ -1,0 +1,4 @@
+Model,Best_CV_ROC_AUC,Test_ROC_AUC,Test_PR_AUC,Test_Recall,Test_Precision,Test_F1,Test_Accuracy,Best_Parameters
+XGBoost,0.9719,0.9754,0.9526,0.885,0.8213,0.852,0.9184,"{'classifier__learning_rate': 0.03, 'classifier__max_depth': 4, 'classifier__n_estimators': 150, 'classifier__subsample': 0.8}"
+Logistic Regression,0.9711,0.9743,0.95,0.893,0.8068,0.8477,0.9148,"{'classifier__C': 10.0, 'classifier__solver': 'liblinear'}"
+Random Forest,0.9657,0.9678,0.9465,0.8583,0.8676,0.8629,0.9276,"{'classifier__max_depth': 12, 'classifier__min_samples_split': 10, 'classifier__n_estimators': 200}"
